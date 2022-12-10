@@ -54,11 +54,7 @@ summary = summarize(input_fp, result_fp, model, max_length=3)
 print(summary)
 ```
 
-## Demo
 
-[![](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://extractive-summarization.herokuapp.com/)
-
-![](https://github.com/chriskhanhtran/minimal-portfolio/blob/master/images/bertsum.gif?raw=true)
 
 ## Samples
 
